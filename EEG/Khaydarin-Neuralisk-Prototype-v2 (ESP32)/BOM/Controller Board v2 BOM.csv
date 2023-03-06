@@ -1,0 +1,17 @@
+Part Number,Manufacturer,Description,Quantity,Supplier,Supplier Part Number
+ESP32-WROOM-CD2102,Espressif,Microcontroller with built-in Bluetooth and Wi-Fi,1,Digi-Key,1965-ESP32-WROOM-CD2102
+ADS1015,Texas Instruments,12-bit ADC,4,Digi-Key,ADS1015IDGSR
+ADS1115,Texas Instruments,16-bit ADC,1,Digi-Key,ADS1115IDGST
+CD74HC4067,Texas Instruments,16-Channel Multiplexer,5,Digi-Key,CD74HC4067M96
+MPU-9250,TDK InvenSense,9-Axis Gyroscope and Accelerometer,1,Digi-Key,MPU-9250-01
+2N3904,ON Semiconductor,NPN Transistor,2,Digi-Key,2N3904FS-ND
+IRLML2502,Infineon,MOSFET,1,Digi-Key,IRLML2502TRPBF
+LED,Kingbright,Indicator LED,3,Digi-Key,754-1484-ND
+3.7V 1000mAh LiPo Battery,Adafruit,Lithium Polymer Battery,1,Adafruit,2011
+TP4056 Charging module,Adafruit,LiPo Charger Module,1,Adafruit,259
+LM1117-3.3,Texas Instruments,3.3V Voltage Regulator,1,Digi-Key,LM1117DT-3.3/NOPBCT-ND
+TXB0108PWR,Texas Instruments,Logic Level Shifter,1,Digi-Key,TXB0108PWR
+10uF Capacitor,KEMET,Aluminum Electrolytic Capacitor,1,Digi-Key,399-10783-1-ND
+1uF Capacitor,KEMET,Aluminum Electrolytic Capacitor,1,Digi-Key,399-12846-1-ND
+10kOhm Resistor,Yageo,Thick Film Resistor,1,Digi-Key,YAGEO-RC0805FR-0710KL-ND
+4.7 kOhm Resistor,Yageo,Thick Film Resistor,5,Digi-Key,YAGEO-RC0805JR-074K7L-ND
