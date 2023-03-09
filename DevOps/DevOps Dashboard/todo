@@ -1,0 +1,10 @@
+dev dashoard to monitor heath of web apps
+    use grafana or kibana
+    use prometheus to monitor and alert infrastructure and application
+    use nagios or zabbix to monitor server health and performance
+    also configure cloudwatch to monitor aws resources
+    or stackdriver for monitoring aws or gcp infrastructure
+
+    implement centralized logging using ELK stack or Fluentd
+    Use Splunk r Sumo Logic for Log analysis and alerting
+    
